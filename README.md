@@ -1,5 +1,5 @@
 ## Getting Started
-# Live server : https://nf-ts-finder.vercel.app/)
+Live server : https://nf-ts-finder.vercel.app/
 
 First, run the development server:
 
